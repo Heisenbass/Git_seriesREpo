@@ -1,0 +1,22 @@
+{
+  "name": "aa-git-video-series",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/server.js
+    "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heisenbass/Git_seriesREpo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heisenbass/Git_seriesREpo/issues"
+  },
+  "homepage": "https://github.com/Heisenbass/Git_seriesREpo#readme",
+  "description": ""
+}
